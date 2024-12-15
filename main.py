@@ -1,5 +1,5 @@
 
-print("Bem vindo")
+print("Bem vindo a calculadora")
 saldo = 0
 while True:
     print("___________________________________")
