@@ -1,4 +1,5 @@
 
+print("Bem vindo")
 saldo = 0
 while True:
     print("___________________________________")
@@ -8,6 +9,7 @@ while True:
     print('Para ver o saldo digite: 3 ')
     print('Para sair digite: 0')
     print('___________________________________')
+
 
     opcao = input("Digite a opção: ")
     1
